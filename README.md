@@ -5,15 +5,15 @@ This repository contains my learning journey in the subject of Big Data. The cou
 
 ## Table of Contents
 
-1. [Distributed Systems & Fault-Tolerance](#distributed-systems-&-fault-tolerance)
-2. [Distributed Filesystems & HDFS]
-3. [MapReduce & YARN]
-4. [Hive & Pig]
-5. [Spark & Spark SQL]
-6. [Kafka & Spark Streaming]
-7. [NoSQL & CAP]
-8. [Key-Value & Wide-Column Stores]
-9. [Document Databases]
+1. [Distributed Systems & Fault-Tolerance](#distributed-systems--fault-tolerance)
+2. [Distributed Filesystems & HDFS](#distributed-filesystems--hdfs)
+3. [MapReduce & YARN](#mapreduce--yarn)
+4. [Hive & Pig](#hive--pig)
+5. [Spark & Spark SQL](#spark--spark-sql)
+6. [Kafka & Spark Streaming](#kafka--spark-streaming)
+7. [NoSQL & CAP](#nosql--cap)
+8. [Key-Value & Wide-Column Stores](#key-value--wide-column-stores)
+9. [Document Databases](#document-databases)
 
 ## Distributed Systems & Fault-Tolerance
 
