@@ -1,0 +1,1 @@
+SELECT * FROM Music WHERE artistName = 'Katy Perry';
