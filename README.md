@@ -50,3 +50,7 @@ Explored key-value stores and wide-column stores as types of NoSQL databases, th
 ## Document Databases
 
 Studied document-oriented databases, their flexible schema design, query capabilities, and popular implementations like MongoDB, understanding their advantages for handling semi-structured data in big data scenarios.
+
+---
+
+This repository serves as a comprehensive record of my journey through the Big Data Technologies course, showcasing the skills and knowledge gained in various data processing, storage, and analytical techniques. Feel free to explore the code and documentation for a detailed insight into each topic.
